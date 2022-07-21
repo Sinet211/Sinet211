@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Добро пожаловать на мой профиль GitHub! 
 
-<!--
-**Sinet211/Sinet211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+### :man: Обо мне:
+Привет!👋 Меня зовут Линар, я QA Engineer (почти :flushed:) из Уфы!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Прошел курсы Николая Кротова весной 2022, в данный момент продолжаю все глубже погружаться в сферу тестирования и совершенствоваться
+- 📫 Связаться со мной: <a href="https://t.me/Sinet211" rel="nofollow">Telegram</a>
+
+
+### :computer: Тестовая документация:
+- <a href="https://docs.google.com/spreadsheets/d/1sRSztuiFcFLr0LVdq6w9r89ssRE_p82vkMH4hrewAFs/edit?usp=sharing">Пример моих тест-кейсов</a>
+- <a href="https://docs.google.com/spreadsheets/d/1q8THf3hk5r-JZnqQaaGjS_4LeOGg5UCUjWuhjgvvDbU/edit?usp=sharing">Чек-листы, баг-репорты</a>
+- <a href="https://docs.google.com/spreadsheets/d/1m2Wn9WPnUbLDxu3RFQSvBow_4qvZsxHMIFeQ0ZLFjUw/edit?usp=sharing">Выполнение ТЗ</a>
