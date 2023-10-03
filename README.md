@@ -13,5 +13,6 @@
 
 ### :computer: Тестовая документация:
 - <a href="https://docs.google.com/spreadsheets/d/1sRSztuiFcFLr0LVdq6w9r89ssRE_p82vkMH4hrewAFs/edit?usp=sharing">Пример моих тест-кейсов</a>
+- <a href="https://docs.google.com/spreadsheets/d/1fseXSybEmZIMXdBJ9SCt2LGUb8pzMPjagUp1JIXnkeA/edit?usp=sharing">Тест-кейсы по API</a>
 - <a href="https://docs.google.com/spreadsheets/d/1q8THf3hk5r-JZnqQaaGjS_4LeOGg5UCUjWuhjgvvDbU/edit?usp=sharing">Чек-листы, баг-репорты</a>
 - <a href="https://docs.google.com/spreadsheets/d/1m2Wn9WPnUbLDxu3RFQSvBow_4qvZsxHMIFeQ0ZLFjUw/edit?usp=sharing">Выполнение ТЗ</a>
